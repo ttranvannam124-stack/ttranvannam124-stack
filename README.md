@@ -1,23 +1,11 @@
 ## Hi there 👋
 
-<!--
-**ttranvannam124-stack/ttranvannam124-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên Công nghệ thông tin – Đại học Mở Hà Nội.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 📊 Thống kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ttranvannam124-stack&show_icons=true&theme=tokyonight&locale=vi)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ttranvannam124-stack&show_icons=true&theme=tokyonight&locale=vi)
 
 ## 💻 Ngôn ngữ sử dụng
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ttranvannam124-stack&layout=compact&theme=tokyonight&locale=vi)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ttranvannam124-stack&layout=compact&theme=tokyonight&locale=vi)
